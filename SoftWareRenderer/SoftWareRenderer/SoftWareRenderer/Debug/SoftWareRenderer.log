@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\woait\Documents\WPI courses\CS543-computer graphics\Portfolio\C++Render\SoftWareRenderer\SoftWareRenderer\SoftWareRenderer\MathTools.h(24,2): warning C4091: 'static ': ignored on left of 'MathTools' when no variable is declared
+C:\Users\woait\Documents\WPI courses\CS543-computer graphics\Portfolio\C++Render\SoftWareRenderer\SoftWareRenderer\SoftWareRenderer\Main.cpp(774,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+MathTools.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  SoftWareRenderer.vcxproj -> C:\Users\woait\Documents\WPI courses\CS543-computer graphics\Portfolio\C++Render\SoftWareRenderer\SoftWareRenderer\Debug\SoftWareRenderer.exe
